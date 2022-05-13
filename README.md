@@ -1,5 +1,5 @@
 # My car value
-API for figuring out a price for used carS build with NestJS.
+API for figuring out a price for used cars build with NestJS.
 
 ## Available resources
 - Auth
